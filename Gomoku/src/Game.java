@@ -34,7 +34,7 @@ public class Game extends Application {
 		window = new Stage();
 
 		window.setTitle("Gomoku");
-		window.setHeight(900);
+		window.setHeight(901);
 		window.setWidth(630);
 		window.setMaxHeight(750);
 		window.setMaxWidth(630);
